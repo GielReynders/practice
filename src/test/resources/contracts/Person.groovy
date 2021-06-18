@@ -17,10 +17,10 @@ Contract.make {
     response {
         status CREATED()
         body([
-                "id": "20",
+                "id": "1",
                 "firstName": "Giel",
                 "lastName": "Reynders",
-                "age": "40"
+                "age": "99"
         ])
     }
 }
